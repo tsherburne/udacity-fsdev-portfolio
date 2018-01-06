@@ -1,0 +1,22 @@
+{
+  "name": "udacity-fsdev-portfolio",
+  "version": "1.0.0",
+  "description": "Udacity Fullstack Developer Portfolio Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsherburne/udacity-fsdev-portfolio.git"
+  },
+  "author": "Tim Sherburne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsherburne/udacity-fsdev-portfolio/issues"
+  },
+  "homepage": "https://github.com/tsherburne/udacity-fsdev-portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
