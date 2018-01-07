@@ -1,3 +1,13 @@
-/* 
-    NOTE: all styles via W3.CSS https://www.w3schools.com/w3css/ 
-*/
+.full-page {
+    max-width: 900px;
+}
+.full-width-image {
+    width: 100%;
+    height: auto;
+}
+.edu-icon {
+    height: 40px;
+}
+.resume-icon {
+    width: 75px;
+}
