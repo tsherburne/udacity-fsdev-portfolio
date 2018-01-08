@@ -1,13 +1,17 @@
 .full-page {
     max-width: 900px;
+    margin: auto;
 }
+
 .full-width-image {
     width: 100%;
     height: auto;
 }
+
 .edu-icon {
     height: 40px;
 }
+
 .resume-icon {
     width: 75px;
 }
